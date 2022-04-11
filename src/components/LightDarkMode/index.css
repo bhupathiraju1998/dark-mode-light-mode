@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.bg-container-dark {
+  background-color: black;
+  min-height: 100vh;
+}
+.bg-container-light {
+  background-color: #ffffff;
+  min-height: 100vh;
+}
